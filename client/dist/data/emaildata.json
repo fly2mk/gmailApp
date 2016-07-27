@@ -1,0 +1,62 @@
+[
+	{
+		"msgid" : "1",
+		"labelType": "sent",
+		"msgFrom": "muthu@gmail.Com",
+		"msgTo": "muthu@gmail.Com",
+		"msgSubject": "Happy Birthday",
+		"msgBody": "Sending a sample mail",
+		"msgSentOn": "2016-07-27 19:43:37 +0100",
+		"msgReceivedOn": "2016-07-27 19:43:37 +0100",
+		"hasAttachment": false,
+		"isRead": true
+	}, 
+	{
+		"msgid" : "2",
+		"labelType": "indox",
+		"msgFrom": "henry@gmail.Com",
+		"msgTo": "henry@gmail.Com",
+		"msgSubject": "Top 10 pleaces to visit",
+		"msgBody": "Hello Muthukumar",
+		"msgSentOn": "2016-07-27 19:43:37 +0100",
+		"msgReceivedOn": "2016-07-27 19:43:37 +0100",
+		"hasAttachment": false,
+		"isRead": false
+	},
+	{
+		"msgid" : "3",
+		"labelType": "indox",
+		"msgFrom": "john@gmail.Com",
+		"msgTo": "john@gmail.Com",
+		"msgSubject": "ITC International",
+		"msgBody": "Sample email",
+		"msgSentOn": "2016-07-27 19:43:37 +0100",
+		"msgReceivedOn": "2016-07-27 19:43:37 +0100",
+		"hasAttachment": false,
+		"isRead": true
+	},
+	{
+		"msgid" : "4",
+		"labelType": "indox",
+		"msgFrom": "Hemanth@gmail.Com",
+		"msgTo": "Hemanth@gmail.Com",
+		"msgSubject": "Hemanth mail",
+		"msgBody": "Hemanth :test  mail",
+		"msgSentOn": "2016-07-27 19:43:37 +0100",
+		"msgReceivedOn": "2016-07-27 19:43:37 +0100",
+		"hasAttachment": false,
+		"isRead": false
+	}, 
+	{
+		"msgid" : "5",
+		"labelType": "indox",
+		"msgFrom": "grandmall@gmail.Com",
+		"msgTo": "grandmall@gmail.Com",
+		"msgSubject": "Welcome to Grand Mall",
+		"msgBody": "Hello, Welcome to Grand Mall",
+		"msgSentOn": "2016-07-27 19:43:37 +0100",
+		"msgReceivedOn": "2016-07-27 19:43:37 +0100",
+		"hasAttachment": false,
+		"isRead": false
+	}
+]
